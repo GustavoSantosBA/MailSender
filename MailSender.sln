@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailSender", "MailSender\MailSender.csproj", "{3E67F479-0806-449A-99F1-A21BCF067BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E67F479-0806-449A-99F1-A21BCF067BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E67F479-0806-449A-99F1-A21BCF067BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E67F479-0806-449A-99F1-A21BCF067BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E67F479-0806-449A-99F1-A21BCF067BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8B8F4F8-3CDE-4FCD-9FE2-8AFAA17B2380}
+	EndGlobalSection
+EndGlobal
